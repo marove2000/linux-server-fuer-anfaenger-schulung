@@ -1,4 +1,3 @@
-- Paketmanager -> Was ist das? Wie krieg ich infos zu den Paketen? Wie installiere ich neue Software?
 # Programme installieren
 
 ## Paketmanager
