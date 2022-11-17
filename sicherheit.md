@@ -1,0 +1,8 @@
+- Sicherheit!
+	- Einfache Sicherheitsmethoden, per ssh nicht auf root, nutze sudo, sichere passwörter, ssh ist dein freund
+	- Programme nicht als root laufen lassen
+	- Autoupdate aktivieren?
+	- UFW Firewall firewalld?
+	- ssh-key!
+	- TLS-Zertifikate
+	- netstat -tulpen
