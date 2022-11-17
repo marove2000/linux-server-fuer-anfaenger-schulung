@@ -20,21 +20,21 @@ Updated das Paket-Repository (Den Paketkatalog).
 
 Bringt alle Pakete auf den neusten Stand.
 
-### Beispiel: Installation von "htop"
+### Beispiel: Installation von "btop"
 
 Hinweis: Wir benötigen hier den Befehl "sudo" (Eselsbrücke "Super-Do"). Danach kommt eine Passwortabfrage. Dazu später mehr.
 
-> sudo apt search htop
+> sudo apt search btop
 
 Sucht im Paketkatalog nach allen Paketen mit diesem Namen.
 
-> sudo apt show htop
+> sudo apt show btop
 
-Gibt weiter Informationen, wie Version, Beschreibung und Download-Size von "htop" wieder.
+Gibt weiter Informationen, wie Version, Beschreibung und Download-Size von "btop" wieder.
 
-> sudo apt install htop
+> sudo apt install btop
 
-Installiert htop und alle nötigen Abhänigkeiten.
+Installiert btop und alle nötigen Abhänigkeiten.
 
 ## Programme (Auto-)Starten, Neustarten und Beenden
 
