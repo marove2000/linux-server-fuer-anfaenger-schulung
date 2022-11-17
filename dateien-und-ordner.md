@@ -101,6 +101,12 @@ Bei "ln" gibt es zwei arten von Links:
 
 Das "-s" steht für symbolisch bzw. symlink.
 
+### rm - remove files or directories
+
+> rm [ORDNER/DATEINAME]
+
+Löscht Dateien. Achtung: Bei Ordnern muss ein -r mit angegeben werden. Absolute Vorsicht bei den Optionen -f und "rm -r /"
+
 -----
 ¹Quelle (CC-BY-SA 3.0): https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg
 ²Quelle: https://twitter.com/SchindlerTimo/status/1592158402373091328
