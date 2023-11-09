@@ -48,7 +48,7 @@ Zeigt die letzten 10 Zeilen und aktualisiert automatisch wenn neue Zeilen hinzu 
 Es gibt verschiedene Standard-Tools:
 
 - Emacs - Kann alles, relativ komplex
-- vim - kan Textdateien bearbeiten und das sehr gut, ist fast überall installiert, relativ komplex im Umgang
+- vim - Kann Textdateien bearbeiten und das sehr gut, ist fast überall installiert, relativ komplex im Umgang
 - nano - Sehr einfach, ist überall installiert
 
 -> Wir nehmen **Nano**
