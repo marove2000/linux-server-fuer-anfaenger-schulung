@@ -45,7 +45,7 @@ Ins Absolute Wurzelverzeichnis springen.
 Der Filesystem Hierarchy Standard (FHS) ist eine Richtlinie für die Verzeichnisstruktur unter Unix-ähnlichen Betriebssystemen.
 
 ![](images/Standard-unix-filesystem-hierarchy.svg)
-ilesystem Hierarchy Standard in Linux¹
+Filesystem Hierarchy Standard in Linux¹
 
 Die wichtigsten Ordner im täglichen Admin-Leben (alphabetisch sortiert):
 
