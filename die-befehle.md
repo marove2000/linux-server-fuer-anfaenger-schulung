@@ -26,7 +26,7 @@ Beispiel:
 * Springe zum nächsten Fundort: "n"-Taste
 
 ## History
-* Die 500 letzten Befehle werden in der History gespeichert
+* Die 1000 letzten Befehle werden standardmäßig in der History gespeichert
 * Gespeichert in der Datei: ~/.bash_history
 * Befehl "history" zeigt die letzten Befehle
 * Auch erreichbar unter [STR]+r
